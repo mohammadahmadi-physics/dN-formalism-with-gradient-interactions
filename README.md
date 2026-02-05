@@ -8,5 +8,5 @@ the exact Mukhanov–Sasaki solution. It also evaluates the equilateral
 non-Gaussianity parameter using the δN formalism.
 
 If you use this code or parts of it in academic work, please consider citing:
-- arXiv:0000.0000
+- arXiv:2602.00902
 - arXiv:2301.03600v2
